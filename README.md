@@ -3,7 +3,7 @@ A MicroPython program to test readings from RP2040's ADCs and print them out on 
 
 Tested with Lena Kryger's [RP1](https://lenakryger.de/rp1); should also at the very least work with Raspberry Pi Pico and pyboard. 
 
-![Image](<https://raw.githubusercontent.com/MariaWasNotAvailable/rp2040-ssd1306-diag/main/oled.webp>)
+![Image](<[https://raw.githubusercontent.com/MariaWasNotAvailable/rp2040-ssd1306-diag/main/oled.webp](https://raw.githubusercontent.com/MariaWasNotAvailable/rp2040-ssd1306-diag/refs/heads/main/oled.webp)>)
 
 # Usage
 1. Flash MicroPython onto the board (recommended tool: [Thonny](https://thonny.org))
